@@ -31,5 +31,5 @@ class Heroi {
         console.log(`o ${this.tipo} atacou usando ${message}`)
     }
 }
-let Mago = new Heroi("joao", 15, "mago")
-Mago.atacar()
+let novoHeroi = new Heroi("joao", 15, "mago")
+novoHeroi.atacar()
