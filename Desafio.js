@@ -1,6 +1,6 @@
-var nome = "Joao"
-var xp = 3048
-var nivel = "Boi"
+let nome = "Joao"
+let xp = 3048
+let nivel = "Boi"
 
 
 
